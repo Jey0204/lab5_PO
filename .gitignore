@@ -1,0 +1,8 @@
+# Pliki i katalogi generowane przez kompilator i system budowania
+/build/
+*.exe
+*.o
+*.obj
+
+# Pliki tymczasowe edytora
+.vscode/
