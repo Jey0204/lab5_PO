@@ -1,3 +1,3 @@
-# lab5_PO
+# lab3
 
-Downloads\lab5-main\build> .\main_interfejs.exe
+.\main_interfejs.exe
